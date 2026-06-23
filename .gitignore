@@ -1,0 +1,15 @@
+/vendor/
+node_modules/
+.env
+.env.*.local
+storage/
+public/storage/
+public/hot
+public/build/
+.docker/
+.phpunit.result.cache
+*.log
+.DS_Store
+Thumbs.db
+catatan.txt
+denai.sh
